@@ -1,4 +1,4 @@
-# tiny-habits
+# Tiny-Habits
 A cute pastel habit tracker to celebrate your tiny daily wins ✨💖 Check, track, and feel proud every day!
 # ♡ Tiny Habits — Cute Habit Tracker ✨
 
